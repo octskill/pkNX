@@ -129,18 +129,10 @@ namespace pkNX.Structures
             #region Mythical
             251, // Celebi
             385, // Jirachi
-            386, // Deoxys
-            489, // Phione
-            490, // Manaphy
-            491, // Darkrai
-            492, // Shaymin
-            493, // Arceus
             494, // Victini
             647, // Keldeo
-            648, // Meloetta
             649, // Genesect
             719, // Diancie
-            720, // Hoopa
             721, // Volcanion
             #endregion
         }).ToArray();
